@@ -6,6 +6,8 @@
         <option value="$PROJECT_DIR$/tests" />
         <option value="$PROJECT_DIR$/filament-test/tests/Unit" />
         <option value="$PROJECT_DIR$/filament-test/tests/Feature" />
+        <option value="$PROJECT_DIR$/filament-admin-panel/tests/Unit" />
+        <option value="$PROJECT_DIR$/filament-admin-panel/tests/Feature" />
       </list>
     </option>
   </component>
